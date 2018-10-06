@@ -1,0 +1,30 @@
+body {
+	font-family: Helvetica;
+	font-size: 20px;
+	color: grey;
+	text-align: center;
+	background: rgb(240, 240, 240)
+}
+
+ul {
+	list-style: none;
+}
+
+.fas {
+	font-size: 50px;
+}
+
+.header {
+	background-image: url(images/travel.png); 
+	background-size: cover;
+	padding: 25vh;
+	
+}
+.features {
+	display: flex;
+	justify-content: space-around;
+	align-content: center;
+	margin-top: 41px;
+}
+
+	
